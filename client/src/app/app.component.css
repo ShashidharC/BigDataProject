@@ -1,0 +1,9 @@
+app-search{
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+.ecommerce-body{
+    padding: 15px;
+    padding-top: 75px;
+}
